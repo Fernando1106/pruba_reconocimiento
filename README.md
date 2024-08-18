@@ -1,1 +1,1 @@
-# pruba_reconocimiento
+# pruba_reconocimiento_facial
